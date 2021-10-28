@@ -1,7 +1,8 @@
 # The Site Configuration
 
 # Import the theme
-theme: jekyll-theme-chirpy
+theme: TA-Journey
+
 
 # Change the following value to '/PROJECT_NAME' ONLY IF your site type is GitHub Pages Project sites
 # and doesn't have a custom domain.
@@ -31,7 +32,7 @@ description: >-                        # used by seo meta and the atom feed
 url: 'https://tastudyjourney.github.io'
 
 github:
-  username: github_username             # change to your github username
+  username: TaStudyJourney           # change to your github username
 
 twitter:
   username: twitter_username            # change to your twitter username
@@ -39,8 +40,8 @@ twitter:
 social:
   # Change to your full name.
   # It will be displayed as the default author of the posts and the copyright owner in the Footer
-  name: your_full_name
-  email: example@doamin.com             # change to your email address
+  name: TA.G
+  email: 329575652@qq.com            # change to your email address
   links:
     # The first element serves as the copyright owner's link
     - https://twitter.com/username      # change to your twitter homepage
